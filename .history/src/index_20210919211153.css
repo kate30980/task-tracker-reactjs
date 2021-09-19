@@ -89,7 +89,6 @@ body {
   margin: 5px;
   padding: 3px 7px;
   font-size: 17px;
-  font-family: inherit;
 }
 
 .form-control-check {
@@ -103,8 +102,9 @@ body {
 }
 
 .form-control-check input {
-  flex: 1;
-  height: 20px;
+  flex: 2;
+  height: 200px;
+  font-family: inherit;
 }
 
 footer {
